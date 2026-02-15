@@ -18,3 +18,23 @@ The aim of this lab was to understand how distance-based classification works an
 
 ## Conclusion
 This experiment helped me understand distance metrics, clustering, and classification in a practical way. It demonstrated how similarity between feature values can be effectively used for image-based classification.
+
+## Visualisations
+
+## Face Detection
+![Face Detection](images/Face_Detection.jpeg)
+
+## Number of Faces Detected
+![Number of Faces](images/No_Of_Faces.jpeg)
+
+## Hue and Saturation Plot
+![Hue Saturation](images/Hue_Saturation.png)
+
+## Cluster Scatter Plot
+![Cluster Scatter Plot](images/Cluster_Scatter_Plot.png)
+
+## Final Cluster Output
+![Final Cluster](images/Final_Cluster.png)
+
+## Template Face Classification
+![Template Face Classification](images/Template_Face_Classification.png)
